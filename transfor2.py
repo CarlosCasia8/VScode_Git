@@ -13,7 +13,7 @@ class Wave:
 
 
 def main():
-    n_waves = 50
+    n_waves = 25
 
     waves = [Wave() for i in range(n_waves)]
 
